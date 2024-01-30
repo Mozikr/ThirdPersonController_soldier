@@ -1,4 +1,4 @@
-## Third Person Controller (soldier) :military_helmet:
+## Third Person Controller (soldier) :gloves:
 ### Made with C# and Unity Engine
 
 The controller is responsible for walking, running and idle of the characters without and with weapons. 
