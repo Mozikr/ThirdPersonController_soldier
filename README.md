@@ -1,2 +1,2 @@
-# ThirdPersonController_soldier
-Unity3D
+## Third Person Controller (soldier)
+### Made with C# and Unity Engine
